@@ -3,6 +3,7 @@ user = input("Enter your name: ")
 
 print(f"Hello {user}!")
 
+
 """
 if user == "Viivi":
     print("Hello, Viivi!")

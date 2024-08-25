@@ -10,3 +10,4 @@ num6 = randint(1,6)
 num7 = randint(1,6)
 
 print(f'Code 2: {num4}{num5}{num6}{num7}')
+

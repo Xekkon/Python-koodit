@@ -9,3 +9,4 @@ average = sum / 3
 print(f"The sum of the three numbers are: {sum}" )
 print(f"The product of the three numbers are: {product}")
 print(f"The average of the three numbers are: {average}")
+
